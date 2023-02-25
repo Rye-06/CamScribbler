@@ -37,4 +37,5 @@ NOTE: To use the FinalYOLOandDarknet, download Yolo weights https://drive.google
 
 # Team Members
 . Shaurya Sareen (Rye)
+
 . Yash Verma
