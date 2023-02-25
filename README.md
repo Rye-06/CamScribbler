@@ -32,3 +32,9 @@ https://camscribbler.notion.site/Introducing-CamScribbler-e5a7553ff02a4e2c9588f9
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 NOTE: To use the FinalYOLOandDarknet, download Yolo weights https://drive.google.com/file/d/1-4BCcXHGYofCtSfBYdgxgxasHj_Jeboi/view?usp=sharing
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Team Members
+. Shaurya Sareen (Rye)
+. Yash Verma
